@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Quicksand', sans-serif;
+}
+
+button{
+    font-size: 56px;
+    background-color: dodgerblue;
+}
